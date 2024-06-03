@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently studying games design and development at Chichester University<br>👯 Looking to break into the Game industry at the end of my university course<br>🤝 Looking for help in developing my artistic skills and designing skills<br>🌱 I'm currently learning C#, Substance Painter, Maya, 3Ds Max, Unity<br>💬 Ask me about my favourite games and characters
+🔭 Currently studying games design and development at Chichester University<br>👯 Looking to break into the Game industry at the end of my university course<br>🤝 Looking for help in developing my artistic skills and designing skills<br>🌱 I'm currently learning C#, Substance Painter, Maya, 3Ds Max, Unity
 
 
 ## 🌐 Socials:
